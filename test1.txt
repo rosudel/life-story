@@ -2,3 +2,4 @@ i was born in 1996.
 I've completed my HSC in 2014.
 Currently I'm working in Brain Station 23.
 I'm curious to learn new technologies.
+I work in java team.
