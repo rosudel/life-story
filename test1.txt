@@ -3,3 +3,4 @@ Currently I'm working in Brain Station 23.
 I'm curious to learn new technologies.
 I work in java team.
 I haven't got job in google.
+logo alignment is centered.
