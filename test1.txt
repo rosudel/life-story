@@ -1,7 +1,7 @@
-I've accomplished my B.Sc. from PUST(result: 2022).
+I've accomplished my B.Sc. from PUST(result: 2022(march)).
 Currently I'm working in Brain Station 23.
 I'm curious to learn new technologies.
 I work in java team.
 I haven't got job in google.
 logo alignment is centered.
-again new line added.
+new line is added.
